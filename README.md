@@ -1,6 +1,4 @@
 # Final Project @ The Flatiron School
-# Phoebe Wong 
-# Sep 2019
 
 The goal of this project is to estimate the effects of political spending on federal contract awards before and after Citizens United. 
 
